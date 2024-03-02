@@ -2,10 +2,12 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    position:relative;
 }
 
 body {
     background-color: #d9dcd6;
+    position:relative;
 }
 
 .header {
@@ -135,6 +137,7 @@ p {
 }
 
 .search-engine-optimization {
+ 
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -176,6 +179,7 @@ p {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
+    
 }
 
 .online-reputation-management h2 {
