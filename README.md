@@ -1,2 +1,3 @@
 # Code Refactor Starter Code
-#test.
+# added alt on images
+# changed non semantic tags to semantic
